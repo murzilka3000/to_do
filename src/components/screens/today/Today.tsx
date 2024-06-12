@@ -1,8 +1,11 @@
+import Layout from "../../layout/Layout"
 
 
 const Today = () => {
   return (
-    <div>Today</div>
+    <Layout>
+      <div>Today</div>
+    </Layout>
   )
 }
 

@@ -1,8 +1,11 @@
+import Layout from "../../layout/Layout"
 
 
 const Search = () => {
   return (
-    <div>Search</div>
+    <Layout>
+      <div>Search</div>
+    </Layout>
   )
 }
 

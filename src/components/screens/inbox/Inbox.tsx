@@ -1,8 +1,11 @@
+import Layout from "../../layout/Layout"
 
 
 const Inbox = () => {
   return (
-    <div>Inbox</div>
+    <Layout>
+      <div>Inbox</div>
+    </Layout>
   )
 }
 

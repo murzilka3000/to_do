@@ -1,8 +1,11 @@
+import Layout from "../../layout/Layout"
 
 
 const Messages = () => {
   return (
-    <div>Messages</div>
+    <Layout>
+      <div>Messages</div>
+    </Layout>
   )
 }
 
